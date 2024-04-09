@@ -1,2 +1,2 @@
-# proyecto_prod
-proyecto sobre productos
+# CRUD_PRODUCTOS-CON-FLASK-Y-MONGODB
+Proyecto basado en crear un pequeño aplicativo web, utilizando lenguajes como python y flaks ademas de una base de datos no estructural como MongoDB donde nos pedia por supuesto hacer una conexion exitosa con nuestra base de datos, incluir productos de manera exitosa a nuestra base de datos de manera existosa y que a su vez, mediante un codigo unico traer este dato a nuestro aplicativo permitiendo actualizar los datos y eliminarlo  
