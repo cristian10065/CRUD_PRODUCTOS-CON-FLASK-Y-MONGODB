@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,300&display=swap');
+body{
+  font-family: 'Shantell Sans', cursive;
+  background-color: white;
+}
+p {
+  font-size: 0.5 rem;
+  color: #ffffff;
+  
+}
+a:link {
+  color: white;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+input {
+  width: 200px;
+  background: white;
+  border: 0;
+  border-bottom: 2px solid #a50909;
+}
+
+.formula{
+  box-sizing: border-box;
+  width: 100px;
+  border: 0;
+  border-bottom: 2px solid #191964;
+}
+
+h1{
+  text-align: center;
+  background-color: #a50909;
+  color: white;
+  padding: 2px;
+}
+
+h2{
+  background-color: #a78080;
+  color: white;
+  padding: 10px;
+
+}
+h4{
+  
+  color: white;
+  padding: 10px;}
+button{
+  padding:8px 12px;
+  margin:8px 0 0;
+  font-family:'Montserrat',sans-serif;
+  
+  background:#a50909;
+  color:#ffffff;
+  cursor:pointer;
+  }
+
+a{
+  padding:8px 12px;
+  margin:8px 0 0;
+  font-family:'Montserrat',sans-serif;
+  
+  background:#a50909;
+  color:#ee0e0e;
+  
+  }    
+
+
+  div{
+    padding:8px 12px;
+    margin:8px 0 0;
+    font-family:'Montserrat',sans-serif;
+    
+    background:#070707;
+    color:#ee0e0e;
+    cursor:pointer;
+    transition:all .3s}  
